@@ -1,3 +1,3 @@
 ?iris
 data(iris)
-hist(iris$Petal.Length
+hist(iris$Petal.Length)
